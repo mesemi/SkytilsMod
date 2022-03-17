@@ -241,6 +241,7 @@ class Skytils {
             StartsWithSequenceSolver(),
             StupidTreasureChestOpeningThing,
             TankDisplayStuff(),
+            HealerDisplayStuff(),
             TechnoMayor(),
             TeleportMazeSolver(),
             TerminalFeatures(),
